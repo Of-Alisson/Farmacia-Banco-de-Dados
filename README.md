@@ -8,12 +8,10 @@
  O objetivo é analisar o documento, extrair as entidades, campos, relacionamentos, gerar um Modelo de Entidade Relacionamento e criar o banco de dados."
  <br> 
  
-   -DOCUMENTO
+   -DOCUMENTO<br>
    
-   <br>
-    "Um Fármacia comercializa vários tipos de produtos (Cosméticos, remédios etc) Além do tipo, para cada produto são registrados o código, designação, composição, fabricante e preço de venda. Quando um cliente compra pela 1ª vez um produto são registrados os seus dados (nome, endereço, telefone, código postal, localidade e número de contribuinte). Depois de cadastrado, sempre que um cliente compra um determindo produto é regitrado seu código de cliente, os produtos adquiridos, o nome do médico (no caso das receitas médias), bem como o total da venda. Cada compra é identificada por um número para facilitar as consultas à base de dados."
+    <"Um Fármacia comercializa vários tipos de produtos (Cosméticos, remédios etc) Além do tipo, para cada produto são registrados o código, designação, composição, fabricante e preço de venda. Quando um cliente compra pela 1ª vez um produto são registrados os seus dados (nome, endereço, telefone, código postal, localidade e número de contribuinte). Depois de cadastrado, sempre que um cliente compra um determindo produto é regitrado seu código de cliente, os produtos adquiridos, o nome do médico (no caso das receitas médias), bem como o total da venda. Cada compra é identificada por um número para facilitar as consultas à base de dados.">
 
-    <br>
 
 FERRAMENTAS:<br>
   -MySQL
